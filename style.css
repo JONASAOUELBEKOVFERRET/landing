@@ -1,0 +1,23 @@
+h1
+{
+	color: gold;
+
+}
+h2
+{
+	color: gold;
+}
+body
+{
+	background-color: lightyellow;
+
+
+}
+#carte
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: coral;
+	text-align: center;
+	aligne-content: center;
+}

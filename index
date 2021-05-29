@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+	<head> 
+		<meta charset="utf-8">
+		<title> Ma Passion : Le saxophone</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<div id="carte">
+		<h1> Mon instrument :</h1>
+		<img src="https://www.woodbrass.com/images/SQUARE400/woodbrass/SAXOPHONES+ALTO+ANTOINE+SONNET.JPG">
+		<p>Le saxophone est un instrument de musique à vent appartenant à la famille des bois. Il a été inventé par le belge Adolphe Sax et breveté à Paris le 21 mars 1846.<br> 
+		Il ne doit pas être confondu avec le saxhorn, de la famille des cuivres, mis au point, lui aussi, par Adolphe Sax. Le saxophone est généralement en laiton, bien qu'il en existe certains en cuivre, argent, en plastique ou plaqués en or.</p>
+		<h1> Moi et le saxophone</h1>
+		<p> J'ai commencé à jouer du saxophone au conservatoire à l'age de 8 ans. Depuis j'ai participé à de nombreux concerts, à différents orchestres, groupes ...</p>
+		<h2>Mes concerts</h2>
+		<p>J'ai 6 concerts en orchestre harmonique <br> J'ai fais plus d'une dizaine de concerts en quatuor ou trio et enfin quelques concerts en tant qu'accompagnateur</p>
+	</div>
+	<div class="typeform-widget" data-url="https://form.typeform.com/to/zYBVjvoU?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+		
+
+
+	</body>
+
+
+
+
+
+
+
+</html>
